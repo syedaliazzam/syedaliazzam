@@ -1,16 +1,12 @@
 ### Hi there 👋
 
-<!--
-**syedaliazzam/syedaliazzam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on an amazing Idea of increasing Retension through imporvement in ARPU+2. This will enable our customers to interact more on our app and get a glimpse of a whole new experinece of our app.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ..
--->
+- 🌱 I’m currently strengthening my foundations of Data Science through Leet Code and Data Camp.
+
+- 💬 Ask me about how I started my Journey of Data Science with a background of Economics and no Coding.
+
+- 📫 How to reach me: https://www.linkedin.com/in/syedaliazzam-ksbl/
+
+- ⚡ Fun fact: I am an Anime geek 
