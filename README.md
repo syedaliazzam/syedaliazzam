@@ -1,12 +1,14 @@
-### Hi there 👋
 
+# WhoAmI
+![Ali Azzam](https://user-images.githubusercontent.com/68848372/228649587-6784f133-38df-4762-bb96-575a231fd6ec.png)
 
-- 🔭 I’m currently working on an amazing Idea of increasing Retension through imporvement in ARPU+2. This will enable our customers to interact more on our app and get a glimpse of a whole new experinece of our app.
+# BrainStatus
+- Currently working on an amazing Idea of increasing Retension through imporvement in ARPU+2. This will enable our customers to interact more on our app and get a glimpse of a whole new experinece of our app.
 
-- 🌱 I’m currently strengthening my foundations of Data Science through Leet Code and Data Camp.
+## AskMe
+how I started my Journey of Data Science with a background of Economics and no Coding.Trust me Its a bumpy road.🥴
 
-- 💬 Ask me about how I started my Journey of Data Science with a background of Economics and no Coding.
+## Reach Out
+https://www.linkedin.com/in/syedaliazzam-ksbl/
 
-- 📫 How to reach me: https://www.linkedin.com/in/syedaliazzam-ksbl/
-
-- ⚡ Fun fact: I am an Anime geek 
+##  I am an Anime geek 😎😎
