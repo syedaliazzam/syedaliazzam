@@ -1,0 +1,21 @@
+name: Set Dark Theme
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  set-theme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+      - name: Set Dark Theme
+        run: |
+          echo "body { color: #c9d1d9; background-color: #0d1117; }" > ./dark.css
+          git config --global user.email "you@example.com"
+          git config --global user.name "Your Name"
+          git add dark.css
+          git commit -m "Set dark theme"
+          git push
