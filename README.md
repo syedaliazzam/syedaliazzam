@@ -1,74 +1,109 @@
-# Hi, I'm Ali Azzam 👋
+# 👋 Hi, I'm Ali Azzam
 
-## Founder & CEO at Paramount Intelligence | AI & Automation Consultant
+## Founder & CEO at Paramount Intelligence  
+AI and Automation Strategist | Workflow Automation | Scalable AI Systems | Data & Analytics
 
-Welcome to my GitHub! I'm a passionate AI strategist with over 5 years of experience in delivering cutting-edge AI solutions that transform businesses and improve operational efficiency. I specialize in **AI systems**, **workflow automation**, and **enterprise-grade AI solutions** that drive measurable ROI. I enjoy building **scalable AI systems** and leading teams to execute complex projects, including AI-driven workflow automation, machine learning, and RAG-based systems. 
-
----
-
-### 🔧 Technologies & Tools I Work With:
-
-- **Programming Languages:** Python, R, SQL, Shell, JavaScript
-- **AI & ML:** LLM Applications, RAG, NLP, AI Agents, Conversational AI
-- **Backend & Frameworks:** FastAPI, Node.js, LangChain, LlamaIndex
-- **Cloud & Deployment:** AWS (Lambda, S3), GCP, Serverless Architectures
-- **Automation & Integrations:** n8n, Zapier, Airtable, API Design
-- **Data & Analytics:** ETL Pipelines, Experimentation, Dashboards, Tableau, Looker/Data Studio
+Welcome to my GitHub! I build **practical AI solutions**, **automation platforms**, and **data-driven systems** that solve real business challenges and drive measurable outcomes. My work spans end‑to‑end AI solutions, workflow automation, enterprise tooling, and operational dashboards.
 
 ---
 
-### 🚀 Some Key Projects:
+## 🔧 Technologies & Tools
 
-#### **[AI-Driven Workflow Automation](https://github.com/syedaliazzam/ai-driven-workflow-automation)**
-This project showcases my work on creating automated systems that reduce manual tasks and improve productivity for organizations. It integrates **AI** and **workflow automation tools** to streamline operational processes.
+I work across the following tech stack:
 
-- **Tech Stack:** Python, n8n, AWS, Google Workspace
-- **Outcome:** Reduced operational costs by 30%, saving $300K annually.
-
-#### **[Dynamic Pricing Engine for Ride-Hailing](https://github.com/syedaliazzam/dynamic-pricing-engine-ride-hailing)**
-A **dynamic pricing** system designed to adapt fares in real-time based on demand. It was implemented for Bykea, a ride-hailing startup, improving their profit margins significantly.
-
-- **Tech Stack:** Python, AWS, FastAPI
-- **Outcome:** Increased profit margins by $4M annually.
-
-#### **[Customer Support Chatbot (RAG-based)](https://github.com/syedaliazzam/rag-chatbot-customer-support)**
-Built a **customer support chatbot** using **Retrieval-Augmented Generation (RAG)** that automates customer queries, reducing live support calls and operational costs.
-
-- **Tech Stack:** Python, RAG, AWS
-- **Outcome:** Reduced live support calls by 30%, driving $2M in annual cost savings.
+- **Languages:** Python, JavaScript, R, SQL
+- **AI & ML:** LLMs, RAG, NLP, AI Agents, Prompt Engineering
+- **Backend & APIs:** FastAPI, Node.js, REST, Webhooks
+- **Cloud & Deployment:** AWS (Lambda, S3, API Gateway), Serverless
+- **Automation & Integration:** n8n, Zapier, Airtable, API orchestration
+- **Data & Visualization:** ETL pipelines, Dashboards, Looker/Data Studio
 
 ---
 
-### 🌱 Current Projects:
+## 🚀 Featured Projects
 
-- **[AI Agent Framework for Talent Matching](https://github.com/syedaliazzam/ai-agent-talent-matching)**
-  Building AI agents to help match talent pools with project requirements, improving outsourcing efficiency.
-
-- **[Real-Time Customer Pulse Dashboard](https://github.com/syedaliazzam/customer-pulse-dashboard)**
-  A dashboard that provides real-time sentiment analysis from social media and customer touchpoints to improve CX decision-making.
+These are some of the most impactful systems I’ve built — all open‑source and representative of my core strengths in AI, automation, and data systems.
 
 ---
 
-### 📈 GitHub Stats:
+### ⭐ **n8n Candidate Assessment System**
+📍 https://github.com/syedaliazzam/n8n-Candidate-assessment-system  
+A no‑code/low‑code candidate assessment and hiring pipeline automation built using **n8n workflows**.  
+Automates candidate screening, scoring, email integrations, and candidate progression — designed to eliminate manual hiring bottlenecks.
 
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=syedaliazzam&show_icons=true&hide_title=true)
-
----
-
-### 💼 Let's Connect!
-
-- [LinkedIn](https://linkedin.com/in/Ali)
-- [Personal Website](https://syedaliazzam.com) *(Optional, if you have one)*
-- 📧 **Email:** syedaliazzam@gmail.com
+**Tech:** n8n, APIs, Automations, Email/webhook orchestration  
+**Impact:** Streamlines hiring operations and accelerates candidate throughput.
 
 ---
 
-### 📝 About Me
+### ⭐ **Driver Ranking System**
+📍 https://github.com/syedaliazzam/Driver-Ranking-System  
+A **driver performance ranking engine** focused on logistics partner optimization.  
+Uses data metrics to assign performance scores and assists in strategic partner tiering.
 
-I am the **Founder & CEO of Paramount Intelligence**, where I focus on delivering AI and automation solutions that solve business challenges. My goal is to make AI solutions accessible, scalable, and impactful across industries. I collaborate with **Fortune-1000 companies** and **high-growth startups**, driving AI transformation that brings real business value, such as improving margins, accelerating operations, and unlocking new revenue streams.
-
-In my free time, I explore cutting-edge **AI research** and contribute to **open-source projects** related to **automation** and **AI-driven solutions**. I also love speaking about AI and automation at various tech events and contributing to discussions on **AI-driven business transformations**.
+**Tech:** Python, ETL Pipelines, Analytics  
+**Value:** Helps logistics platforms optimize incentives, routing, and partner selection.
 
 ---
 
-**Fun Fact:** I’m always exploring new technologies and contributing to AI-driven open-source projects. Feel free to reach out if you want to discuss AI, automation, or collaborations!
+### ⭐ **Dynamic Price Engine**
+📍 https://github.com/syedaliazzam/Dynamic-Price-Engine  
+A **real‑time pricing engine** built for dynamic demand‑driven services. Models pricing with elasticity, supply/demand signals, and customizable heuristics.
+
+**Tech:** Python, FastAPI, API Services  
+**Value:** Increased revenue and operational margin through smart pricing.
+
+---
+
+### ⭐ **Freelance Dashboards**
+📍 https://github.com/syedaliazzam/Freelance-Dashboards  
+A suite of performance dashboards for freelance metrics — revenue, client acquisition, and project analytics.
+
+**Tech:** Dashboards, Data Visualization, Analytics  
+**Utility:** Converts raw project data into actionable insights.
+
+---
+
+### ⭐ **Dark Kendra Chat Nexus**
+📍 https://github.com/syedaliazzam/dark-kendra-chat-nexus  
+A conversational AI platform that integrates vector search and contextual responses for developer workflows.
+
+**Tech:** LLMs, Vector Search, Chat Interfaces  
+**Feature:** Smart retrieval combined with generative context.
+
+---
+
+### ⭐ **Trendly**
+📍 https://github.com/syedaliazzam/trendly  
+A web tool for generating videos from social and news data sources — used for content, marketing insights, and trend discovery.
+
+**Tech:** Web Scraping, Data Aggregation, Dashboard UI  
+**Use Case:** Trend monitoring and visualization platform.
+
+---
+
+## 📈 GitHub Stats
+
+![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedaliazzam&show_icons=true&hide_title=true&theme=radical)
+
+---
+
+## 🔭 What I'm Working On
+
+- Expanding AI automation libraries
+- Advanced RAG systems with real‑time data sync
+- Open‑source automation connectors for enterprise workflows
+
+---
+
+## 💬 Let’s Connect
+
+If you want to talk about AI, automation, engineering workflows, or open source — drop a message!
+
+🔗 **LinkedIn:** https://linkedin.com/in/Ali  
+📧 **Email:** syedaliazzam@gmail.com  
+🌐 **Portfolio/Site:** https://paramountintelligence.co/
+
+---
+
+**Fun Fact:** I’m fascinated by systems that replace manual work with smart, scalable automation — and I love contributing to open source tools that help others succeed.
