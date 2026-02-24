@@ -1,10 +1,10 @@
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════╗
-║          PARAMOUNT INTELLIGENCE  ·  est. 2025         ║
-╚═══════════════════════════════════════════════════════╝
-```
+┌─[ PARAMOUNT INTELLIGENCE ]──────────────────────────────────┐
+│                                                              │
+│   $ whoami        →  Ali Azzam, Founder & CEO               │
+│   $ focus         →  AI Systems · Automation · Data         │
+│   $ status        →  Building · Shipping · Open Source      │
+│                                                              │
+└──────────────────────────────────────[ est. 2025 ]──────────┘
 
 # Ali Azzam
 
