@@ -1,5 +1,9 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:0d1117&height=120&section=header&text=PARAMOUNT%20INTELLIGENCE&fontSize=28&fontColor=63b3ed&fontAlignY=45&desc=Ali%20Azzam%20%C2%B7%20Founder%20%26%20CEO%20%C2%B7%20AI%20%26%20Automation&descSize=14&descAlignY=70&descColor=a0aec0" width="100%"/>
+◈ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ◈
+PARAMOUNT INTELLIGENCE
+Ali Azzam  ·  Founder & CEO  ·  AI & Automation  ·  est. 2024
+[ AI Systems ]   [ Workflow Automation ]   [ Open Source ]
+◈ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ◈
 
 # Ali Azzam
 
