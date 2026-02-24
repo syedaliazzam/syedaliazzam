@@ -122,11 +122,11 @@ Aggregates and surfaces emerging topics from social and news data sources. Built
 
 ---
 
-## GitHub Stats
+## GitHub Streaks
 
 <div align="center">
 
-![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedaliazzam&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=63b3ed&icon_color=f6ad55&text_color=a0aec0)
+![GitHub Streak](https://streak-stats.demolab.com?user=syedaliazzam&theme=tokyonight&hide_border=true)
 
 </div>
 
