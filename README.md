@@ -122,7 +122,7 @@ Aggregates and surfaces emerging topics from social and news data sources. Built
 
 <div align="center">
 
-![Ali's GitHub Stats](![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syedaliazzam&theme=tokyonight))
+![GitHub Streak](https://streak-stats.demolab.com?user=syedaliazzam&theme=tokyonight&hide_border=true))
 
 </div>
 
