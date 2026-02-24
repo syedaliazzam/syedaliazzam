@@ -1,9 +1,16 @@
 <div align="center">
-◈ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ◈
-PARAMOUNT INTELLIGENCE
-Ali Azzam  ·  Founder & CEO  ·  AI & Automation  ·  est. 2024
-[ AI Systems ]   [ Workflow Automation ]   [ Open Source ]
-◈ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ◈
+
+
+![header](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1&pause=1000&color=63B3ED&center=true&vCenter=true&repeat=false&width=700&lines=%E2%97%88+%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81+%E2%97%88)
+
+![title](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=700&lines=PARAMOUNT+INTELLIGENCE)
+
+![subtitle](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=1000&color=A0AEC0&center=true&vCenter=true&repeat=false&width=700&lines=Ali+Azzam+%C2%B7+Founder+%26+CEO+%C2%B7+AI+%26+Automation+%C2%B7+est.+2024)
+
+![tags](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1&pause=1000&color=F6AD55&center=true&vCenter=true&repeat=false&width=700&lines=%5B+AI+Systems+%5D+%5B+Workflow+Automation+%5D+%5B+Open+Source+%5D)
+
+![footer](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=1&pause=1000&color=63B3ED&center=true&vCenter=true&repeat=false&width=700&lines=%E2%97%88+%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81+%E2%97%88)
+
 
 # Ali Azzam
 
@@ -121,7 +128,7 @@ Aggregates and surfaces emerging topics from social and news data sources. Built
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=syedaliazzam&theme=tokyonight&hide_border=true)
+![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedaliazzam&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=63b3ed&icon_color=f6ad55&text_color=a0aec0)
 
 </div>
 
