@@ -136,6 +136,6 @@ Aggregates and surfaces emerging topics from social and news data sources. Built
 
 **Open to conversations about AI, automation, engineering workflows, and open source.**
 
-[syedaliazzam@gmail.com](mailto:syedaliazzam@gmail.com) · [LinkedIn](https://linkedin.com/in/Ali) · [Paramount Intelligence](https://github.com/syedaliazzam)
+[syedaliazzam@gmail.com](mailto:syedaliazzam@gmail.com) · [LinkedIn](https://linkedin.com/in/Ali) · [Twitter]((https://github.com/syedaliazzam))
 
 </div>
