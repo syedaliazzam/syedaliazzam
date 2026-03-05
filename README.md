@@ -48,18 +48,7 @@ I'm the founder of **Paramount Intelligence**, where I lead end-to-end AI strate
 
 ## Featured Projects
 
-### 01 · n8n Candidate Assessment System
-> Automates the entire hiring pipeline — screening, scoring, and candidate progression
-
-A no-code/low-code recruitment automation built on **n8n workflows**. Eliminates manual hiring bottlenecks through intelligent orchestration of candidate data, email integrations, and multi-stage progression logic.
-
-`n8n` `Workflow Automation` `Email/Webhook Orchestration` `Hiring Ops`
-
-🔗 [syedaliazzam/n8n-Candidate-assessment-system](https://github.com/syedaliazzam/n8n-Candidate-assessment-system)
-
----
-
-### 02 · Driver Ranking System
+### 01 · Driver Ranking System
 > Performance-based scoring engine for logistics partner optimization
 
 Uses data metrics to assign performance scores and support strategic partner tiering — helping logistics platforms make smarter decisions around incentives, routing, and partner selection.
@@ -70,7 +59,7 @@ Uses data metrics to assign performance scores and support strategic partner tie
 
 ---
 
-### 03 · Dynamic Price Engine
+### 02 · Dynamic Price Engine
 > Real-time, demand-driven pricing with configurable elasticity models
 
 Models supply/demand signals with customizable heuristics and exposes pricing logic via a clean API service. Built to increase revenue and operational margin through smart, adaptive pricing decisions.
@@ -81,7 +70,7 @@ Models supply/demand signals with customizable heuristics and exposes pricing lo
 
 ---
 
-### 04 · Freelance Dashboards
+### 03 · Freelance Dashboards
 > Operational intelligence for freelance business performance
 
 A suite of dashboards tracking revenue, client acquisition, and project analytics. Converts raw project data into clear, actionable insights for business decision-making.
@@ -92,7 +81,7 @@ A suite of dashboards tracking revenue, client acquisition, and project analytic
 
 ---
 
-### 05 · Dark Kendra Chat Nexus
+### 04 · Dark Kendra Chat Nexus
 > Conversational AI platform with vector search and contextual generation
 
 Integrates vector-based retrieval with generative AI responses for developer workflows. Combines smart document retrieval with contextual LLM completions for high-relevance outputs.
@@ -103,7 +92,7 @@ Integrates vector-based retrieval with generative AI responses for developer wor
 
 ---
 
-### 06 · Trendly
+### 05 · Trendly
 > Trend discovery platform for content and marketing intelligence
 
 Aggregates and surfaces emerging topics from social and news data sources. Built for trend monitoring, content strategy, and marketing insight — with a clean visualization layer on top.
