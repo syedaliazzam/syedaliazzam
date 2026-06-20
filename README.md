@@ -53,7 +53,16 @@ I'm the founder of **Paramount Intelligence**, where I lead end-to-end AI strate
 
 ## Featured Projects
 
-### 01 · Driver Ranking System
+### 01 · Agentic E-Commerce System
+> Multi-agent AI shopping backend for conversational e-commerce
+
+Built an AWS Bedrock-powered commerce assistant that helps users search, compare, add to cart, manage budgets, and move toward checkout through natural conversation. The backend combines agent orchestration, product research tools, cart persistence, session memory, structured frontend payloads, and cloud-ready deployment for a real shopping assistant experience.
+
+`Python` `FastAPI` `AWS Bedrock` `AgentCore` `Strands Agents` `DynamoDB` `S3` `Docker` `AI Agents` `E-Commerce`
+
+🔗 [syedaliazzam/agentic-e-commerce-system](https://github.com/syedaliazzam/agentic-e-commerce-system)
+
+### 02 · Driver Ranking System
 > Performance-based scoring engine for logistics partner optimization
 
 Uses data metrics to assign performance scores and support strategic partner tiering — helping logistics platforms make smarter decisions around incentives, routing, and partner selection.
@@ -64,7 +73,7 @@ Uses data metrics to assign performance scores and support strategic partner tie
 
 ---
 
-### 02 · Dynamic Price Engine
+### 03 · Dynamic Price Engine
 > Real-time, demand-driven pricing with configurable elasticity models
 
 Models supply/demand signals with customizable heuristics and exposes pricing logic via a clean API service. Built to increase revenue and operational margin through smart, adaptive pricing decisions.
@@ -75,7 +84,7 @@ Models supply/demand signals with customizable heuristics and exposes pricing lo
 
 ---
 
-### 03 · Freelance Dashboards
+### 04 · Freelance Dashboards
 > Operational intelligence for freelance business performance
 
 A suite of dashboards tracking revenue, client acquisition, and project analytics. Converts raw project data into clear, actionable insights for business decision-making.
@@ -86,8 +95,9 @@ A suite of dashboards tracking revenue, client acquisition, and project analytic
 
 ---
 
-### 04 · Dark Kendra Chat Nexus
-> Conversational AI platform with vector search and contextual generation
+### 05 · Dark Kendra Chat Nexus
+> Conv
+> ersational AI platform with vector search and contextual generation
 
 Integrates vector-based retrieval with generative AI responses for developer workflows. Combines smart document retrieval with contextual LLM completions for high-relevance outputs.
 
@@ -97,7 +107,7 @@ Integrates vector-based retrieval with generative AI responses for developer wor
 
 ---
 
-### 05 · Trendly
+### 06 · Trendly
 > Trend discovery platform for content and marketing intelligence
 
 Aggregates and surfaces emerging topics from social and news data sources. Built for trend monitoring, content strategy, and marketing insight — with a clean visualization layer on top.
