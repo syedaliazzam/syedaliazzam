@@ -38,11 +38,16 @@ I'm the founder of **Paramount Intelligence**, where I lead end-to-end AI strate
 | Domain | Tools & Technologies |
 |---|---|
 | **Languages** | Python · JavaScript · SQL · R |
-| **AI & ML** | LLMs · RAG · NLP · AI Agents · Prompt Engineering |
-| **Backend & APIs** | FastAPI · Node.js · REST · Webhooks |
-| **Cloud** | AWS Lambda · S3 · API Gateway · Serverless |
-| **Automation** | n8n · Zapier · Airtable · API Orchestration |
-| **Data & Analytics** | ETL Pipelines · Looker · Data Studio · Dashboards |
+| **Frontend** | Next.js · React · Tailwind CSS · Framer Motion |
+| **Backend & APIs** | FastAPI · Node.js · REST APIs · Webhooks · API Gateway |
+| **AI & Agents** | LLMs · RAG · NLP · AI Agents · Prompt Engineering · Multi-Agent Systems · Agent Core |
+| **AI Platforms** | AWS Bedrock · Azure AI Foundry · OpenAI · Claude · Gemini |
+| **Cloud** | AWS · Lambda · S3 · API Gateway · Serverless · Railway · Vercel |
+| **Automation** | n8n · Make.com · Zapier · Airtable · GoHighLevel · API Orchestration |
+| **Data** | ETL Pipelines · Looker · Google Data Studio · Dashboards · PostgreSQL · Prisma |
+| **Web Scraping** | Playwright · Selenium · ParseHub · BeautifulSoup |
+| **Integrations** | Google Workspace · Freshdesk · LinkedIn API · Loom · Stripe |
+| **DevOps** | Docker · GitHub · GitHub Actions · Environment Configuration |
 
 ---
 
