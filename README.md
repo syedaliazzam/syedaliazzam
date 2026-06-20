@@ -62,7 +62,16 @@ Built an AWS Bedrock-powered commerce assistant that helps users search, compare
 
 🔗 [syedaliazzam/agentic-e-commerce-system](https://github.com/syedaliazzam/agentic-e-commerce-system)
 
-### 02 · Driver Ranking System
+### 02 · Agentic Governance System
+> Serverless governance registry for enterprise AI agents and MCP gateways
+
+Built a backend system for managing AI agent governance across an enterprise AgentCore Registry. The system ingests AgentCore runtimes and MCP gateways, exposes a catalog API for frontend access, enforces Cognito-based JWT authentication, applies persona-based visibility rules, and supports controlled approval workflows for draft, pending, approved, rejected, and deprecated records.
+
+`Python` `AWS Lambda` `API Gateway` `AWS Cognito` `AgentCore` `AI Foundry` `MCP` `Serverless Framework` `GitLab CI/CD` `JWT Auth` `Governance`
+
+🔗 [syedaliazzam/agentic-governance-system](https://github.com/syedaliazzam/agentic-governance-system)
+
+### 03 · Driver Ranking System
 > Performance-based scoring engine for logistics partner optimization
 
 Uses data metrics to assign performance scores and support strategic partner tiering — helping logistics platforms make smarter decisions around incentives, routing, and partner selection.
@@ -73,7 +82,7 @@ Uses data metrics to assign performance scores and support strategic partner tie
 
 ---
 
-### 03 · Dynamic Price Engine
+### 04 · Dynamic Price Engine
 > Real-time, demand-driven pricing with configurable elasticity models
 
 Models supply/demand signals with customizable heuristics and exposes pricing logic via a clean API service. Built to increase revenue and operational margin through smart, adaptive pricing decisions.
@@ -84,7 +93,7 @@ Models supply/demand signals with customizable heuristics and exposes pricing lo
 
 ---
 
-### 04 · Freelance Dashboards
+### 05 · Freelance Dashboards
 > Operational intelligence for freelance business performance
 
 A suite of dashboards tracking revenue, client acquisition, and project analytics. Converts raw project data into clear, actionable insights for business decision-making.
@@ -95,7 +104,7 @@ A suite of dashboards tracking revenue, client acquisition, and project analytic
 
 ---
 
-### 05 · Dark Kendra Chat Nexus
+### 06 · Dark Kendra Chat Nexus
 > Conv
 > ersational AI platform with vector search and contextual generation
 
@@ -107,7 +116,7 @@ Integrates vector-based retrieval with generative AI responses for developer wor
 
 ---
 
-### 06 · Trendly
+### 07 · Trendly
 > Trend discovery platform for content and marketing intelligence
 
 Aggregates and surfaces emerging topics from social and news data sources. Built for trend monitoring, content strategy, and marketing insight — with a clean visualization layer on top.
